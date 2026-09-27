@@ -8,11 +8,11 @@ My solutions to [type-challenges](https://github.com/type-challenges/type-challe
 | Difficulty | Solved | Progress |
 | --- | --- | --- |
 | Warm-up | 0 / 1 | `░░░░░░░░░░` 0% |
-| Easy | 0 / 13 | `░░░░░░░░░░` 0% |
+| Easy | 1 / 13 | `█░░░░░░░░░` 7% |
 | Medium | 0 / 104 | `░░░░░░░░░░` 0% |
 | Hard | 0 / 55 | `░░░░░░░░░░` 0% |
 | Extreme | 0 / 17 | `░░░░░░░░░░` 0% |
-| **Total** | **0 / 190** | `░░░░░░░░░░` 0% |
+| **Total** | **1 / 190** | `░░░░░░░░░░` 0% |
 
 <details><summary><b>Warm-up</b> — 0 / 1</summary>
 
@@ -20,12 +20,12 @@ My solutions to [type-challenges](https://github.com/type-challenges/type-challe
 
 </details>
 
-<details><summary><b>Easy</b> — 0 / 13</summary>
+<details><summary><b>Easy</b> — 1 / 13</summary>
 
 - [ ] 4 · [Pick](challenges/1-easy/00004-pick.ts)
 - [ ] 7 · [Readonly](challenges/1-easy/00007-readonly.ts)
 - [ ] 11 · [Tuple to Object](challenges/1-easy/00011-tuple-to-object.ts)
-- [ ] 14 · [First of Array](challenges/1-easy/00014-first.ts)
+- [x] 14 · [First of Array](challenges/1-easy/00014-first.ts)
 - [ ] 18 · [Length of Tuple](challenges/1-easy/00018-tuple-length.ts)
 - [ ] 43 · [Exclude](challenges/1-easy/00043-exclude.ts)
 - [ ] 189 · [Awaited](challenges/1-easy/00189-awaited.ts)
