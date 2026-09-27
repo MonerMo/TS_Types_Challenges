@@ -1,0 +1,7 @@
+#!/bin/sh
+# Refresh the progress table in README.md so every commit records what's solved.
+if node scripts/check.mjs --quiet; then
+  git add README.md
+else
+  echo "pre-commit: couldn't refresh README progress (did you run npm install?)" >&2
+fi

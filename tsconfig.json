@@ -1,0 +1,15 @@
+{
+  // Mirrors the TypeScript Playground defaults the challenges are designed for.
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    // Every challenge file is its own module, so type names never clash between files.
+    "moduleDetection": "force",
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "include": ["challenges/**/*.ts"]
+}

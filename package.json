@@ -1,0 +1,16 @@
+{
+  "name": "ts-challenges",
+  "private": true,
+  "type": "module",
+  "description": "My solutions to https://github.com/type-challenges/type-challenges",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "check": "node scripts/check.mjs",
+    "prepare": "git config core.hooksPath .githooks"
+  },
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^5.9.0",
+    "yaml": "^2.8.0"
+  }
+}
